@@ -23,25 +23,6 @@
 
 ---
 
-### 🔍 Currently Learning
-- Python & Data Analysis
-- SQL & Relational Databases
-- Backend & Data fundamentals
-- Git, GitHub & project structuring
-
----
-
-### 🛠 Tools & Technologies
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-003B57?style=flat"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-</p>
-
----
-
 ### 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=firdawss-Elhaddouchi&show_icons=true&theme=tokyonight"/>
