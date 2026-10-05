@@ -12,7 +12,7 @@
 
 <br><br>
 
-<a href="CV.pdf">
+<a href="Firdawss_El_Haddouchi_CV.pdf">
   <img src="https://img.shields.io/badge/📄_CV-View_CV-6C5CE7?style=for-the-badge"/>
 </a>
 &nbsp;
