@@ -1,20 +1,28 @@
 <div align="center">
 
-# Hi 👋, I'm Firdawss El Haddouchi
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C5CE7&height=180&section=header&text=Firdawss%20El%20Haddouchi&fontSize=38&fontAlignY=38&desc=Data%20Engineering%20%7C%20AI%20%7C%20Big%20Data&descAlignY=62&descAlign=50" width="100%" />
 
-### Final-Year Data Engineering Student | AI & Machine Learning | Data Engineering
+### 🎓 Final-Year Data Engineering Student · ENSA Al Hoceima
 
-<p>
-  <a href="https://firdawss-elhaddouchi.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-6C5CE7?style=for-the-badge&logo=react&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/firdawss-el-haddouchi-a34635330/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:firdawss.elhaddouchi@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+**AI · Machine Learning · NLP · RAG · Big Data**
+
+<br>
+
+🎯 **Seeking a 6-Month PFE Internship · 2027**
+
+<br><br>
+
+<a href="CV.pdf">
+  <img src="https://img.shields.io/badge/📄_CV-View_CV-6C5CE7?style=for-the-badge"/>
+</a>
+&nbsp;
+<a href="https://firdawss-elhaddouchi.netlify.app/">
+  <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Portfolio-8A6CE7?style=for-the-badge"/>
+</a>
+&nbsp;
+<a href="https://www.linkedin.com/in/firdawss-el-haddouchi-a34635330/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 </div>
 
@@ -22,156 +30,82 @@
 
 ## 👩‍💻 About Me
 
-I'm a **final-year Data Engineering student at ENSA Al Hoceima**, interested in **Artificial Intelligence, Machine Learning, and Data Engineering**.
+Final-year **Data Engineering student at ENSA Al Hoceima**, interested in building practical solutions at the intersection of **Data Engineering and Artificial Intelligence**.
 
-My practical experience includes working on:
-
-* 🤖 **AI & Machine Learning** — ML models, NLP, RAG, semantic search
-* 🏗️ **Data Engineering & Big Data** — ETL pipelines, data lakes, distributed and streaming systems
-* 🔎 **Data Processing** — data collection, cleaning, transformation, feature engineering
-* ⚙️ **Backend & Applications** — REST APIs, FastAPI, React, Streamlit
-
-I'm currently looking for a **6-month PFE internship** in **Data Engineering, Artificial Intelligence, Machine Learning, or related fields**.
-
----
-
-## 💼 Experience
-
-### 🤖 AI & Data Engineering Intern — TGR
-
-**Trésorerie Provinciale d'Al Hoceïma | July 2026 – September 2026**
-
-Worked on an intelligent document assistant for administrative documents using a **Retrieval-Augmented Generation (RAG)** approach.
-
-* Document extraction, cleaning, chunking, and semantic indexing
-* Semantic search and document-based question answering
-* Integration of embeddings, vector database, local LLM, and backend services
-
-**Tech:** `Python` `RAG` `Sentence Transformers` `ChromaDB` `Ollama` `FastAPI` `React`
-
----
-
-### 🧠 Data & Machine Learning Intern — CMRPI
-
-**Espace Maroc Cyberconfiance (EMC) | July 2026 – August 2026**
-
-Worked on an early-warning solution for detecting malicious URLs and phishing threats targeting SMEs.
-
-* Data collection and preprocessing using PhishTank
-* Lexical and domain-based feature engineering
-* Machine learning model training and evaluation
-* Contribution to the Streamlit monitoring and analysis prototype
-
-**Tech:** `Python` `Pandas` `Scikit-learn` `Machine Learning` `Streamlit` `PhishTank`
-
----
-
-### 💻 Software Development Intern
-
-**Regional Hospital Center of Al Hoceima | July 2025 – September 2025**
-
-Contributed to the development of a web-based radiology department management system.
-
-**Tech:** `PHP` `MySQL` `JavaScript` `HTML/CSS` `Chart.js`
-
----
-
-### 📊 Business Intelligence Intern
-
-**Terra Nova EBS | July 2025 – August 2025**
-
-Contributed to Power BI reporting and business data analysis.
-
-**Tech:** `Power BI` `DAX` `Python`
+My work covers **data pipelines, Big Data, Machine Learning, NLP, and RAG-based applications**, from data preparation and processing to intelligent applications.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🚕 TaaSim — Smart Urban Mobility Platform
+### 🤖 Intelligent Document Assistant
 
-A real-time distributed platform for processing simulated urban mobility data using a **Kappa architecture**.
+A local **RAG-based application** for searching and querying administrative documents.
 
-* Real-time data ingestion with Apache Kafka
-* Stream processing with Apache Flink
-* Historical processing with Apache Spark
-* Data storage using Cassandra and MinIO
-* Containerized distributed environment with Docker Compose
+`Python` `RAG` `Sentence Transformers` `ChromaDB` `Ollama` `FastAPI` `React`
 
-**Tech:** `Kafka` `Flink` `Spark` `Cassandra` `MinIO` `Grafana` `Docker`
+---
+
+### 🚕 TaaSim — Smart Urban Mobility
+
+A **real-time Big Data platform** for processing simulated urban mobility data.
+
+`Kafka` `Flink` `Spark` `Cassandra` `MinIO` `Docker` `Grafana`
 
 🔗 [Repository](https://github.com/elghalbouni-oumaima/taasim-urban-mobility-platform)
 
 ---
 
-### 💼 JobIntelligent — Big Data Job Analytics Platform
+### 💼 JobIntelligent — Job Analytics Platform
 
-A data platform for collecting and processing job offers from multiple sources.
+A **Big Data platform** for collecting, processing, and analyzing job market data.
 
-* Medallion Data Lake architecture
-* Automated ETL workflows with Apache Airflow
-* Data ingestion, cleaning, and schema standardization
-* PostgreSQL and MinIO-based data storage
-
-**Tech:** `Python` `Airflow` `MinIO` `PostgreSQL` `FastAPI` `Power BI` `Docker`
+`Python` `Airflow` `MinIO` `PostgreSQL` `Power BI` `Docker`
 
 🔗 [Repository](https://github.com/firdawss-Elhaddouchi/JobIntelligent-Data-Platform)
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Core Technologies
 
-### 🤖 AI & Machine Learning
+**AI & ML**  
+`Machine Learning` `NLP` `RAG` `Scikit-learn` `Sentence Transformers`
 
-`Machine Learning` `NLP` `RAG` `Scikit-learn` `Sentence Transformers` `HuggingFace` `ChromaDB`
+**Data Engineering & Big Data**  
+`ETL/ELT` `Data Pipelines` `Data Lakes` `Spark` `Kafka` `Flink` `Airflow`
 
-### 🏗️ Data Engineering & Big Data
+**Data & Databases**  
+`Python` `SQL` `Pandas` `PostgreSQL` `MySQL` `Cassandra` `MinIO`
 
-`ETL/ELT` `Data Pipelines` `Data Lake` `Apache Spark` `Apache Kafka` `Apache Flink` `Apache Airflow` `MinIO`
-
-### 🗄️ Databases & Data
-
-`SQL` `PostgreSQL` `MySQL` `Cassandra` `Pandas`
-
-### ⚙️ Backend & Development
-
-`Python` `FastAPI` `REST APIs` `React` `PHP` `JavaScript` `HTML/CSS`
-
-### 🔧 Tools & Deployment
-
-`Git` `GitHub` `Docker` `Docker Compose` `Streamlit` `Power BI` `Grafana`
+**Development & Tools**  
+`FastAPI` `React` `Docker` `Git` `Streamlit` `Power BI` `Grafana`
 
 ---
 
 ## 🎓 Education
 
-### Engineering Degree — Data Engineering
+**Engineering Degree — Data Engineering**  
+ENSA Al Hoceima · 2024 – Present
 
-**ENSA Al Hoceima | 2024 – Present**
-
-### Engineering Preparatory Classes
-
-**ENSA Al Hoceima | 2022 – 2024**
-
----
-
-## 📜 Certifications & Courses
-
-* **Supervised Learning with Scikit-Learn** — DataCamp
-* **Introduction to Docker** — DataCamp
-
----
-
-## 🌐 Links
-
-* 💼 [Portfolio](https://firdawss-elhaddouchi.netlify.app/)
-* 🔗 [LinkedIn](https://www.linkedin.com/in/firdawss-el-haddouchi-a34635330/)
-* 📄 [CV](https://firdawss-elhaddouchi.netlify.app/)
+**Engineering Preparatory Classes**  
+ENSA Al Hoceima · 2022 – 2024
 
 ---
 
 <div align="center">
 
-### Open to PFE Opportunities in Data Engineering & AI
+### Let's build something with Data & AI.
+
+<br>
+
+📍 Al Hoceima, Morocco · 📧 firdawss.elhaddouchi@gmail.com
+
+<br><br>
+
+<a href="https://firdawss-elhaddouchi.netlify.app/">Portfolio</a>
+&nbsp; · &nbsp;
+<a href="https://www.linkedin.com/in/firdawss-el-haddouchi-a34635330/">LinkedIn</a>
+&nbsp; · &nbsp;
+<a href="mailto:firdawss.elhaddouchi@gmail.com">Email</a>
 
 </div>
