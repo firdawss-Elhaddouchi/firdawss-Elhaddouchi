@@ -1,26 +1,26 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=6C5CE7&height=180&section=header&text=Firdawss%20El%20Haddouchi&fontSize=38&fontAlignY=38&desc=Data%20Engineering%20%7C%20AI%20%7C%20Big%20Data&descAlignY=62&descAlign=50" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=6C5CE7&height=180&section=header&text=Firdawss%20El%20Haddouchi&fontSize=38&fontAlignY=38&desc=Data%20Engineering%20%7C%20Artificial%20Intelligence%20%7C%20Big%20Data&descAlignY=62&descAlign=50" width="100%" />
 
 ### 🎓 Final-Year Data Engineering Student · ENSA Al Hoceima
 
-**AI · Machine Learning · NLP · RAG · Big Data**
+**Machine Learning · Data Science · NLP · RAG · Intelligent Applications**
 
 <br>
 
-🎯 **Seeking a 6-Month PFE Internship · 2027**
+🎯 **Open to 6-Month PFE Opportunities · 2027**
 
 <br><br>
 
-<a href="Firdawss_El_Haddouchi_CV.pdf">
+<a href="https://github.com/firdawss-Elhaddouchi/firdawss-Elhaddouchi/raw/refs/heads/main/Firdawss_El_Haddouchi_CV.pdf" target="_blank">
   <img src="https://img.shields.io/badge/📄_CV-View_CV-6C5CE7?style=for-the-badge"/>
 </a>
 &nbsp;
-<a href="https://firdawss-elhaddouchi.netlify.app/">
+<a href="https://firdawss-elhaddouchi.netlify.app/" target="_blank">
   <img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Portfolio-8A6CE7?style=for-the-badge"/>
 </a>
 &nbsp;
-<a href="https://www.linkedin.com/in/firdawss-el-haddouchi-a34635330/">
+<a href="https://www.linkedin.com/in/firdawss-el-haddouchi-a34635330/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
