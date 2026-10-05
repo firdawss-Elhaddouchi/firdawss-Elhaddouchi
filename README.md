@@ -1,49 +1,177 @@
-<h1 align="center">Hi 👋, I'm Firdawss El Haddouchi</h1>
-<h3 align="center">Data Engineering Student at ENSA Al Hoceima | Aspiring Data Engineer</h3>
+<div align="center">
 
-<p align="center">
+# Hi 👋, I'm Firdawss El Haddouchi
+
+### Final-Year Data Engineering Student | AI & Machine Learning | Data Engineering
+
+<p>
   <a href="https://firdawss-elhaddouchi.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Check%20Out%20My%20Portfolio-🌐-blueviolet?style=for-the-badge&logo=react&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Portfolio-6C5CE7?style=for-the-badge&logo=react&logoColor=white"/>
   </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/firdawss-Elhaddouchi">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://www.linkedin.com/in/firdawss-el-haddouchi-a34635330/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
+  <a href="https://www.linkedin.com/in/firdawss-el-haddouchi-a34635330/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:firdawss.elhaddouchi@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
----
-
-### 👩‍💻 About Me
-I am a **Data Engineering** student at **ENSA Al Hoceima**, bridging the gap between mathematical precision and technical systems to build scalable data solutions.
-
-- 🎓 2nd year Engineering student passionate about **Data & Backend systems**.
-- ⚙️ Exploring **Big Data Architectures (Hadoop, Spark, Trino)** and **Automated Data Pipelines**.
-- 🏗️ Currently building projects that process real-world data from the ground up.
-- 🌱 Strong believer in continuous learning and hands-on technical practice.
+</div>
 
 ---
 
-### 💻 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/sql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/apache%20airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/apache%20spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black"/>
-  <img src="https://img.shields.io/badge/hadoop-%23662113.svg?style=for-the-badge&logo=apachehadoop&logoColor=white"/>
-  <br/>
-  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/power%20bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
+## 👩‍💻 About Me
+
+I'm a **final-year Data Engineering student at ENSA Al Hoceima**, interested in **Artificial Intelligence, Machine Learning, and Data Engineering**.
+
+My practical experience includes working on:
+
+* 🤖 **AI & Machine Learning** — ML models, NLP, RAG, semantic search
+* 🏗️ **Data Engineering & Big Data** — ETL pipelines, data lakes, distributed and streaming systems
+* 🔎 **Data Processing** — data collection, cleaning, transformation, feature engineering
+* ⚙️ **Backend & Applications** — REST APIs, FastAPI, React, Streamlit
+
+I'm currently looking for a **6-month PFE internship** in **Data Engineering, Artificial Intelligence, Machine Learning, or related fields**.
+
+---
+
+## 💼 Experience
+
+### 🤖 AI & Data Engineering Intern — TGR
+
+**Trésorerie Provinciale d'Al Hoceïma | July 2026 – September 2026**
+
+Worked on an intelligent document assistant for administrative documents using a **Retrieval-Augmented Generation (RAG)** approach.
+
+* Document extraction, cleaning, chunking, and semantic indexing
+* Semantic search and document-based question answering
+* Integration of embeddings, vector database, local LLM, and backend services
+
+**Tech:** `Python` `RAG` `Sentence Transformers` `ChromaDB` `Ollama` `FastAPI` `React`
+
+---
+
+### 🧠 Data & Machine Learning Intern — CMRPI
+
+**Espace Maroc Cyberconfiance (EMC) | July 2026 – August 2026**
+
+Worked on an early-warning solution for detecting malicious URLs and phishing threats targeting SMEs.
+
+* Data collection and preprocessing using PhishTank
+* Lexical and domain-based feature engineering
+* Machine learning model training and evaluation
+* Contribution to the Streamlit monitoring and analysis prototype
+
+**Tech:** `Python` `Pandas` `Scikit-learn` `Machine Learning` `Streamlit` `PhishTank`
+
+---
+
+### 💻 Software Development Intern
+
+**Regional Hospital Center of Al Hoceima | July 2025 – September 2025**
+
+Contributed to the development of a web-based radiology department management system.
+
+**Tech:** `PHP` `MySQL` `JavaScript` `HTML/CSS` `Chart.js`
+
+---
+
+### 📊 Business Intelligence Intern
+
+**Terra Nova EBS | July 2025 – August 2025**
+
+Contributed to Power BI reporting and business data analysis.
+
+**Tech:** `Power BI` `DAX` `Python`
+
+---
+
+## 🚀 Featured Projects
+
+### 🚕 TaaSim — Smart Urban Mobility Platform
+
+A real-time distributed platform for processing simulated urban mobility data using a **Kappa architecture**.
+
+* Real-time data ingestion with Apache Kafka
+* Stream processing with Apache Flink
+* Historical processing with Apache Spark
+* Data storage using Cassandra and MinIO
+* Containerized distributed environment with Docker Compose
+
+**Tech:** `Kafka` `Flink` `Spark` `Cassandra` `MinIO` `Grafana` `Docker`
+
+🔗 [Repository](https://github.com/elghalbouni-oumaima/taasim-urban-mobility-platform)
+
+---
+
+### 💼 JobIntelligent — Big Data Job Analytics Platform
+
+A data platform for collecting and processing job offers from multiple sources.
+
+* Medallion Data Lake architecture
+* Automated ETL workflows with Apache Airflow
+* Data ingestion, cleaning, and schema standardization
+* PostgreSQL and MinIO-based data storage
+
+**Tech:** `Python` `Airflow` `MinIO` `PostgreSQL` `FastAPI` `Power BI` `Docker`
+
+🔗 [Repository](https://github.com/firdawss-Elhaddouchi/JobIntelligent-Data-Platform)
+
+---
+
+## 🛠️ Technical Skills
+
+### 🤖 AI & Machine Learning
+
+`Machine Learning` `NLP` `RAG` `Scikit-learn` `Sentence Transformers` `HuggingFace` `ChromaDB`
+
+### 🏗️ Data Engineering & Big Data
+
+`ETL/ELT` `Data Pipelines` `Data Lake` `Apache Spark` `Apache Kafka` `Apache Flink` `Apache Airflow` `MinIO`
+
+### 🗄️ Databases & Data
+
+`SQL` `PostgreSQL` `MySQL` `Cassandra` `Pandas`
+
+### ⚙️ Backend & Development
+
+`Python` `FastAPI` `REST APIs` `React` `PHP` `JavaScript` `HTML/CSS`
+
+### 🔧 Tools & Deployment
+
+`Git` `GitHub` `Docker` `Docker Compose` `Streamlit` `Power BI` `Grafana`
+
+---
+
+## 🎓 Education
+
+### Engineering Degree — Data Engineering
+
+**ENSA Al Hoceima | 2024 – Present**
+
+### Engineering Preparatory Classes
+
+**ENSA Al Hoceima | 2022 – 2024**
+
+---
+
+## 📜 Certifications & Courses
+
+* **Supervised Learning with Scikit-Learn** — DataCamp
+* **Introduction to Docker** — DataCamp
+
+---
+
+## 🌐 Links
+
+* 💼 [Portfolio](https://firdawss-elhaddouchi.netlify.app/)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/firdawss-el-haddouchi-a34635330/)
+* 📄 [CV](https://firdawss-elhaddouchi.netlify.app/)
+
+---
+
+<div align="center">
+
+### Open to PFE Opportunities in Data Engineering & AI
+
+</div>
